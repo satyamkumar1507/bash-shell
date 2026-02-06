@@ -2,8 +2,7 @@
 
 echo "Checking comments"
 
-# This is a single line comment
-
+ye jo gareeb ho be na apni aadat se garib hobe
 <<comment
 
 this 
