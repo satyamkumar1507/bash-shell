@@ -3,8 +3,7 @@
 # below is the example of multi line comment
 
 <<COMMENTS
-hello motherfucker
-You bitch
+ye jo gareeb ho be na apni aadat se garib hobe
 COMMENTS
 
-echo "Hello "
+echo "Hello Ruhon deb"
