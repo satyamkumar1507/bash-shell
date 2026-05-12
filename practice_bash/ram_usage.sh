@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MEM=$(free | awk '/Mem:/ {printf("%.0f"), $3/$2 * 100}')
+MEM=$(free | awk '/Mem:/ {print int($3/$2 * 100)}')
 
 echo "Memory Usage: $MEM%"
 
